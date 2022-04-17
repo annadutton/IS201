@@ -1,0 +1,46 @@
+.common{
+    /*background-color: rgb(192, 255, 147);
+    border: solid 2px white;*/
+    position: absolute;
+}
+.nav{
+    padding: auto;
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    height: 110px;
+    z-index: 2;
+    border-bottom: solid 1px gray;
+    background-color: gray;
+    text-align: center;
+}
+a{
+    color: lightpink;
+    text-align: center;
+}
+.span{
+    padding-top: 15px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: lightpink;
+    font-size: 30px;
+}
+.mainbody{
+    top: 114px;
+    bottom: 64px;
+    left: 114px;
+    right: 114px;
+    padding-right: 5px;
+    background-color: lightpink;
+}
+.footer{
+    bottom: 5px;
+    height: 30px;
+    left: 5px;
+    right: 5px;
+    padding-top: 12px;
+    font-size: 8px;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    position: fixed;
+    background-color: gray;
+}
